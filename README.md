@@ -19,3 +19,6 @@ Predict if a user will purchase a product or not!
 
 ## Project Five: Classification on highly imbalanced data (classification_on_imbalanced_data)
 In the insurance industry, predicting the likelihood of claims is critical for risk assessment and policy pricing. However, insurance claims datasets often exhibit class imbalance, with non-claims outnumbering actual claims. 
+
+## Project Six: Steam Game Recommendation
+Building a Game Recommendation System with Steam Platform Data!
