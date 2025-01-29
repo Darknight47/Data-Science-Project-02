@@ -18,6 +18,7 @@ Make recommendations based on similar users
 Find the products that the top similar users have purchased.  
 Filter out the products that the target user has already purchased.  
 Recommend the remaining products to the target user, prioritizing those that were purchased by more of their similar users or had higher purchase amounts.  
+A recommendation system analyzes the characteristics of songs, such as genre, tempo, energy, and other audio features, and groups them into clusters. These clusters represent groups of songs that share similar attributes.
 
 ---
 ## Project 04 💲💵🏦
