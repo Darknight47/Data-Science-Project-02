@@ -41,3 +41,9 @@ In the insurance industry, predicting the likelihood of claims is critical for r
 ## Project 07 🎱🎮🎲
 ### Steam Game Recommendation (steam_game_recommendation) 
 Building a Game Recommendation System with Steam Platform Data!
+
+---
+## Project 08 💲💱💸
+### A dynamic pricing model that optimizes the prices
+The goal is to develop a dynamic pricing model that optimizes the prices of items to maximize revenue while remaining competitive in the market.  
+Key here is to unravel how our pricing strategies have influenced sales and revenue historically, and how competitor prices impact our performance.
