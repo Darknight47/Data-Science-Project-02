@@ -47,3 +47,9 @@ Building a Game Recommendation System with Steam Platform Data!
 ### A dynamic pricing model that optimizes the prices
 The goal is to develop a dynamic pricing model that optimizes the prices of items to maximize revenue while remaining competitive in the market.  
 Key here is to unravel how our pricing strategies have influenced sales and revenue historically, and how competitor prices impact our performance.
+
+---
+## Project 09 🏘️💵💳
+### Customer Card Segementation
+Clustering credit cards based on their buying habits, credit limits, and many other financial factors!  
+
