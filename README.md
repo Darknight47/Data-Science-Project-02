@@ -53,3 +53,11 @@ Key here is to unravel how our pricing strategies have influenced sales and reve
 ### Customer Card Segementation
 Clustering credit cards based on their buying habits, credit limits, and many other financial factors!  
 
+---
+## Project 10 📽️📺🍿
+### Netflix Content Strategy Analysis (netflix_content_strategy)
+Netflix Content Strategy Analysis, we need data based on content titles, type (show or movie), genre, language, and release details (date, day of the week, season) to understand timing and content performance!  
+
+---
+
+
