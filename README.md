@@ -59,5 +59,9 @@ Clustering credit cards based on their buying habits, credit limits, and many ot
 Netflix Content Strategy Analysis, we need data based on content titles, type (show or movie), genre, language, and release details (date, day of the week, season) to understand timing and content performance!  
 
 ---
+## Project 11 🪙💸💰
+### Predict Bitcoin prices with different ML models (bitcoin_price_prediction)
+The main goal of this project is building and comparing various time series and machine learning models to predict Bitcoin prices, aiming to identify the most accurate methods for forecasting future cryptocurrency trends.
 
+---
 
