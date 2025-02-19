@@ -64,4 +64,8 @@ Netflix Content Strategy Analysis, we need data based on content titles, type (s
 The main goal of this project is building and comparing various time series and machine learning models to predict Bitcoin prices, aiming to identify the most accurate methods for forecasting future cryptocurrency trends.
 
 ---
+## Project 12 🛒😶‍🌫️💀
+### Detect Anomalies within varous financial transactions (anomaly_detection_transaction)
+The main goal of this project is identifying unusual or unexpected patterns within transactions or related activities.  
 
+---
